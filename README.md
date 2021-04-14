@@ -21,21 +21,21 @@ Antes de iniciar este proyecto, es requerido tener instalado Node JS y np:
 - Ejecutar el proyecto: `npm run start`
 
 - Entrada :
-    RENE=MO10:00-12:00,TU10:00-12:00,TH01:00-03:00,SA14:00-18:00,SU20:00-21:00
-    ASTRID=MO10:00-12:00,TH12:00-14:00,SU20:00-21:00
-    GEOVANNY=MO08:00-10:00,FR18:00-19:00,SA03:00-09:00
-    CARLOS=WE09:00-18:00,TH00:00-02:00,FR19:00-22:00,SU19:00-20:00
-    MARIA=WE00:00-02:00,T18:00-19:00,SU20:00-21:00
-    DANIELA=MO00:00-02:00,FR18:00-19:00,SA20:00-21:00
+    - RENE=MO10:00-12:00,TU10:00-12:00,TH01:00-03:00,SA14:00-18:00,SU20:00-21:00
+    - ASTRID=MO10:00-12:00,TH12:00-14:00,SU20:00-21:00
+    - GEOVANNY=MO08:00-10:00,FR18:00-19:00,SA03:00-09:00
+    - CARLOS=WE09:00-18:00,TH00:00-02:00,FR19:00-22:00,SU19:00-20:00
+    - MARIA=WE00:00-02:00,T18:00-19:00,SU20:00-21:00
+    - DANIELA=MO00:00-02:00,FR18:00-19:00,SA20:00-21:00
 
 - Salida :
 
-    El monto a pagar RENE es: 215 USD
-    El monto a pagar ASTRID es: 85 USD
-    El monto a pagar GEOVANNY es: 2620 USD
-    El monto a pagar CARLOS es: 7360 USD
-    El monto a pagar MARIA es: 260 USD
-    El monto a pagar DANIELA es: 2425 USDs
+    - El monto a pagar RENE es: 215 USD
+    - El monto a pagar ASTRID es: 85 USD
+    - El monto a pagar GEOVANNY es: 2620 USD
+    - El monto a pagar CARLOS es: 7360 USD
+    - El monto a pagar MARIA es: 260 USD
+    - El monto a pagar DANIELA es: 2425 USDs
 
 
 ## Desarrollador
