@@ -1,0 +1,12 @@
+{
+  "name": "horario",
+  "version": "1.0.0",
+  "description": "Calculo de salario a recibir segun el horario trabajado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Geovanny Mina",
+  "license": "ISC"
+}
