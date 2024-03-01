@@ -40,4 +40,4 @@ Antes de iniciar este proyecto, es requerido tener instalado Node JS y np:
 
 ## Desarrollador
 
-- **Geovanny Mina Villegas.** - email: geodmina@hotmail.com
+- **Geovanny Mina Villegas.** - email: geodmina@gmail.com
